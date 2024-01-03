@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+
+.headerd{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../image/web-pictur.jpg);
+    /* background-color: rgb(249, 240, 229); */
+    padding: 10px;
+    height: 400px;
+    
+}
+
+.header{
+    padding: 5px;
+    border-radius: 3px;
+    width: 300px;
+    background-color: rgb(238, 228, 225);
+    margin-top: 50px;
+    
+}
+.contant{
+    text-align: center;
+    margin: 50px;
+    color:black;
+}
+.container{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.container ol li{
+    color: rgb(124, 124, 249);
+}
+
+.container2{
+    margin-top: 50px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+img{
+
+   box-shadow: 20px 20px 10px rgb(209, 208, 208);
+   border-radius: 10%;
+}
+
+.section{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.perapgraph{
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(239, 239, 239);
+    height: 100px;
+    width: 800px;
+    background-color:rgb(251, 251, 251);
+}
+
+.Something{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.images{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.images img{
+    text-align: center;
+    width: 800px;
+    height: 300px;
+    border-radius: 7px;
+}
+.section-container{
+    text-align: right;
+    padding-right: 170px;
+}
+input[type="password"]{
+    height: 25px;
+    margin-top: 5px;
+}
+input[type="email"]{
+    height: 25px;
+    margin-top: 5px;
+}
+
+
+/* ******* */
+
+/* div{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 10px;
+} */
+
+.contain{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 800px;
+
+}
+
+.info-contain{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    justify-content: center;
+}
+
+.info{
+    
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-top: 100px;
+    width: 350px;
+    border-radius: 4px;
+}
+
+.list-info{
+    margin-top: 50px;
+    margin-left: 180px;
+}
